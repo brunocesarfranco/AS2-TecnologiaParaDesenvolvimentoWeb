@@ -8,7 +8,7 @@ Desenvolvido por: Bruno Cesar de Oliveira Franco
 Em caso de reutilização do código, lembre-se de modificar as configurações do Firebase no arquivo "Firebase.js". Utilize a Configuração do SDK vinculado ao seu projeto.
 
 Bloco a ser modificado:
-![alt text](image.png)
+![image](https://github.com/brunocesarfranco/AS2-TecnologiaParaDesenvolvimentoWeb/assets/80123383/ee0d3a44-d739-4e4c-9d24-7684dbf154bf)
 
 
 # Infos Sobre React App
