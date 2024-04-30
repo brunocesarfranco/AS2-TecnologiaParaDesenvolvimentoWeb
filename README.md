@@ -1,4 +1,4 @@
-# AS2-TecParaDesenvolvimentoWeb
+# AS2-TecnologiaParaDesenvolvimentoWeb
 Projeto desenvolvido em React para Atividade Somativa 2 na matéria de Tecnologias Para Desenvolvimento Web na PUCPR.
 
 Desenvolvido por: Bruno Cesar de Oliveira Franco
