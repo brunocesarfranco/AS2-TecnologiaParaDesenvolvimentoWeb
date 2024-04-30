@@ -7,6 +7,8 @@ Desenvolvido por: Bruno Cesar de Oliveira Franco
 ## Observações
 Em caso de reutilização do código, lembre-se de modificar as configurações do Firebase no arquivo "Firebase.js". Utilize a Configuração do SDK vinculado ao seu projeto.
 
+Outro detalhe é ativar a "Authentication" via Provedores nativos (E-mail/senha) no Firebase, já que o codigo está configurado utilizando autenticação.
+
 ### Bloco a ser modificado:
 ![image](https://github.com/brunocesarfranco/AS2-TecnologiaParaDesenvolvimentoWeb/assets/80123383/ee0d3a44-d739-4e4c-9d24-7684dbf154bf)
 
