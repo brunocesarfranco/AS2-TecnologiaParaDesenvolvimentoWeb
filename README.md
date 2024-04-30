@@ -1,16 +1,21 @@
 # AS2-TecParaDesenvolvimentoWeb
-
 Projeto desenvolvido em React para Atividade Somativa 2 na matéria de Tecnologias Para Desenvolvimento Web na PUCPR.
+
+Desenvolvido por: Bruno Cesar de Oliveira Franco
+
+
+## Observações
+Em caso de reutilização do código, lembre-se de modificar as configurações do Firebase no arquivo "Firebase.js". Utilize a Configuração do SDK vinculado ao seu projeto.
+
+Bloco a ser modificado:
+![alt text](image.png)
 
 
 # Infos Sobre React App
-
 ## Começando com Create React App
-
 Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
 
 ## Scripts Disponíveis
-
 No diretório do projeto, você pode executar:
 
 ### `npm start`
