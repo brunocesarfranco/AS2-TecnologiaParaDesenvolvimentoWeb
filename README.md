@@ -17,6 +17,7 @@ Outro detalhe é ativar a "Authentication" via Provedores nativos (E-mail/senha)
 Link: https://bfreactapp.netlify.app
 
 Usuario valido: brunocesarfranco@gmail.com
+
 Senha valida: 123456
 
 
