@@ -16,8 +16,7 @@ Outro detalhe é ativar a "Authentication" via Provedores nativos (E-mail/senha)
 ## Link de deploy na plataforma Netfily
 Link direto: https://bfreactapp.netlify.app
 
-Usuario valido: brunocesarfranco@gmail.com
-
+Usuario valido: brunocesarfranco@gmail.com\
 Senha valida: 123456
 
 
@@ -28,9 +27,21 @@ Este projeto foi inicializado com [Create React App](https://github.com/facebook
 No diretório do projeto, você pode executar:
 
 ### `npm start`
-
 Executa o aplicativo no modo de desenvolvimento.\
-Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no seu navegador.
+Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no seu navegador.\
+A página será recarregada quando você fizer alterações.
 
-A página será recarregada quando você fizer alterações.\
-Você também pode ver quaisquer erros de lint no console.
+### `npm run build`
+Irá gerar uma pasta “build” dentro do projeto com os arquivos necessários para realizar o deploy.
+
+### `npm run build`
+Irá gerar uma pasta “build” dentro do projeto com os arquivos necessários para realizar o deploy.\
+Caso tenha alguma alteração no codigo fonte é necessário gerar um novo build. 
+
+### `netfily deploy`
+Gera deploy em ambiente de homologação para acesso.
+
+### `netfily deploy --prod`
+Gera deploy em ambiente de produção para acesso.\
+Ao pedir "Publish directory" em console, adicione o arquivo "./build"
+
