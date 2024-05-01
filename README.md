@@ -14,15 +14,14 @@ Outro detalhe é ativar a "Authentication" via Provedores nativos (E-mail/senha)
 
 
 ## Link de deploy na plataforma Netfily
-Link: https://bfreactapp.netlify.app
+Link direto: https://bfreactapp.netlify.app
 
 Usuario valido: brunocesarfranco@gmail.com
 
 Senha valida: 123456
 
 
-# Infos Sobre React App
-
+## Infos Sobre React App
 Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
 
 ## Scripts Disponíveis
