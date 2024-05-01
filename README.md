@@ -13,8 +13,15 @@ Outro detalhe é ativar a "Authentication" via Provedores nativos (E-mail/senha)
 ![image](https://github.com/brunocesarfranco/AS2-TecnologiaParaDesenvolvimentoWeb/assets/80123383/ee0d3a44-d739-4e4c-9d24-7684dbf154bf)
 
 
+## Link de deploy na plataforma Netfily
+Link: https://bfreactapp.netlify.app
+
+Usuario valido: brunocesarfranco@gmail.com
+Senha valida: 123456
+
+
 # Infos Sobre React App
-## Começando com Create React App
+
 Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
 
 ## Scripts Disponíveis
@@ -27,8 +34,3 @@ Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no seu na
 
 A página será recarregada quando você fizer alterações.\
 Você também pode ver quaisquer erros de lint no console.
-
-### `npm test`
-
-Inicia o executor de testes no modo de observação interativa.\
-Consulte a seção sobre [execução de testes](https://facebook.github.io/create-react-app/docs/running-tests) para mais informações.
